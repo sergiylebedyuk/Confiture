@@ -24,6 +24,3 @@ product_7
 product_8
 product_9
 product_10
-
-test_800 ekawa
-test_1280 konfitur

@@ -4,7 +4,6 @@ juice_capri_sun_200
 juice_drink_tymbark_250
 nuts_salino_salt_150
 chips_pringles_165
-chips_pringles_160
 waffle_bar_fiesta_xxl_50
 dragee_mimi_230
 lollipops_woogie_wild_berries_200

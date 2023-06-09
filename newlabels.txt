@@ -10,3 +10,11 @@ lollipops_woogie_wild_berries_200
 cookies_gullon_without_sugar_200
 cookies_jezyki_140
 bar_coconut_48
+
+toast_cheese_165
+vegetable_salad_300
+croissant_salami_265
+ciabatta_smoked_chicken_245
+granola_yogurt_200
+mango_100
+peanut_100
